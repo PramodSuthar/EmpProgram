@@ -1,0 +1,10 @@
+I:\Github upload\C#\Lab1AD0_3\Lab1AD0\Lab1AD0\obj\Debug\EmpProgram.csprojAssemblyReference.cache
+I:\Github upload\C#\Lab1AD0_3\Lab1AD0\Lab1AD0\obj\Debug\EmpProgram.csproj.GenerateResource.cache
+I:\Github upload\C#\Lab1AD0_3\Lab1AD0\Lab1AD0\obj\Debug\EmpProgram.csproj.CoreCompileInputs.cache
+I:\Github upload\C#\Lab1AD0_3\Lab1AD0\Lab1AD0\bin\Debug\EmpProgram.exe.config
+I:\Github upload\C#\Lab1AD0_3\Lab1AD0\Lab1AD0\bin\Debug\EmpProgram.exe
+I:\Github upload\C#\Lab1AD0_3\Lab1AD0\Lab1AD0\bin\Debug\EmpProgram.pdb
+I:\Github upload\C#\Lab1AD0_3\Lab1AD0\Lab1AD0\obj\Debug\EmpProgram.Properties.Resources.resources
+I:\Github upload\C#\Lab1AD0_3\Lab1AD0\Lab1AD0\obj\Debug\EmpProgram.exe
+I:\Github upload\C#\Lab1AD0_3\Lab1AD0\Lab1AD0\obj\Debug\EmpProgram.pdb
+I:\Github upload\C#\Lab1AD0_3\Lab1AD0\Lab1AD0\obj\Debug\EmpProgram.Presentation.EmployeeForm.resources

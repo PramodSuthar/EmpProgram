@@ -1,0 +1,10 @@
+C:\Users\Razie\Desktop\Lab1AD0\Lab1AD0\bin\Debug\Lab1AD0.exe.config
+C:\Users\Razie\Desktop\Lab1AD0\Lab1AD0\bin\Debug\Lab1AD0.exe
+C:\Users\Razie\Desktop\Lab1AD0\Lab1AD0\bin\Debug\Lab1AD0.pdb
+C:\Users\Razie\Desktop\Lab1AD0\Lab1AD0\obj\Debug\Lab1AD0.csprojAssemblyReference.cache
+C:\Users\Razie\Desktop\Lab1AD0\Lab1AD0\obj\Debug\Lab1AD0.Presentation.EmployeeForm.resources
+C:\Users\Razie\Desktop\Lab1AD0\Lab1AD0\obj\Debug\Lab1AD0.Properties.Resources.resources
+C:\Users\Razie\Desktop\Lab1AD0\Lab1AD0\obj\Debug\Lab1AD0.csproj.GenerateResource.cache
+C:\Users\Razie\Desktop\Lab1AD0\Lab1AD0\obj\Debug\Lab1AD0.csproj.CoreCompileInputs.cache
+C:\Users\Razie\Desktop\Lab1AD0\Lab1AD0\obj\Debug\Lab1AD0.exe
+C:\Users\Razie\Desktop\Lab1AD0\Lab1AD0\obj\Debug\Lab1AD0.pdb
